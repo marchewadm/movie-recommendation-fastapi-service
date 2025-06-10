@@ -2,7 +2,7 @@ from typing import Annotated
 
 from fastapi import Depends
 
-from app.controllers.health import HealthController
+from .controller import HealthController
 
 
 HealthControllerDependency = Annotated[HealthController, Depends()]

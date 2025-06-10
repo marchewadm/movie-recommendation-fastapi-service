@@ -1,10 +1,10 @@
 from fastapi import APIRouter, status
 
-from app.schemas.health import CheckHealthResponse
-from app.dependencies.health import HealthControllerDependency
+from .schemas import CheckHealthResponse
+from .dependencies import HealthControllerDependency
 
 
-router = APIRouter(prefix="/api", tags=["API"])
+router = APIRouter(tags=["Status"])
 
 
 @router.get(

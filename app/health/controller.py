@@ -1,4 +1,4 @@
-from app.schemas.health import CheckHealthResponse
+from .schemas import CheckHealthResponse
 
 
 class HealthController:
