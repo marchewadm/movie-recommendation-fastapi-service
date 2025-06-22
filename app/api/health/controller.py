@@ -6,10 +6,11 @@ class HealthController:
 
     @staticmethod
     async def check_health() -> CheckHealthResponse:
-        """Verify if the service is running.
+        """Verify if the app is running.
 
-        :returns: A response model indicating the service status.
-        :rtype: CheckHealthResponse
+        Returns:
+            CheckHealthResponse:
+                A response model indicating the app status.
         """
 
         return CheckHealthResponse()
