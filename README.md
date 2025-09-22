@@ -15,7 +15,7 @@ Related repositories:
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
     - [Cloning the Repository](#cloning-the-repository)
-      - [Running the Project via Docker Compose](#running-the-project-via-docker-compose)
+      - [Running the Project via Docker Compose](#running-the-project-via-docker)
       - [Running the Project via uv](#running-the-project-via-uv)
 - [Usage](#usage)
     - [Example API Request](#example-api-request) 
