@@ -22,7 +22,7 @@ Related repositories:
 
 ## Demo
 
-Demo section coming soon.
+https://github.com/user-attachments/assets/9d4c3a07-3b6a-484a-a69a-661858d00b4d
 
 ## Prerequisites
 
