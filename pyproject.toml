@@ -7,4 +7,9 @@ requires-python = ">=3.13"
 dependencies = [
     "black>=25.1.0",
     "fastapi[standard]>=0.115.12",
+    "flake8-bugbear>=24.12.12",
+    "flake8-class-attributes-order>=0.3.0",
+    "numpy>=2.3.1",
+    "pandas>=2.3.0",
+    "pydantic-settings>=2.10.0",
 ]
