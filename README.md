@@ -7,7 +7,7 @@ The purpose of this repository is to serve the **trained recommendation model** 
 
 Related repositories:
 - [Model training repository](https://github.com/marchewadm/movie-recommendation-model)
-- [Backend repository](https://github.com/marchewadm/movie-recommendation-backend)
+- [Backend repository (Laravel)](https://github.com/marchewadm/movie-recommendation-backend)
 
 ## Table Of Contents
 
